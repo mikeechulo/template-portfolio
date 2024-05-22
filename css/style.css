@@ -419,7 +419,7 @@ https://www.tooplate.com/view/2120-ben-resume
 
   .testimonials .owl-theme .owl-dots .owl-dot.active span, 
   .testimonials .owl-theme .owl-dots .owl-dot:hover span {
-    background: var(--primary-color);
+    background: steelblue;
   }
 
 
