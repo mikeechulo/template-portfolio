@@ -108,13 +108,13 @@ https://www.tooplate.com/view/2120-ben-resume
   }
 
   .underline-hover {
-    text-decoration: none;
-    transition: text-decoration 0.3s ease; 
-    font-weight: bold;
+   color: steelblue;
+   font-weight: bold;
   }
 
   .underline-hover:hover {
     text-decoration: underline;
+    color: steelblue;
   }
 
   .section-padding {
